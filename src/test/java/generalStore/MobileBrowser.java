@@ -22,7 +22,7 @@ public class MobileBrowser {
 //		driver.findElement(By.name("q")).sendKeys("rahul shetty academy");
 //		driver.findElement(By.name("q")).sendKeys(Keys.ENTER);
 		System.out.println("hello appium!!");
-
+		System.out.println("hello appium!!");
 	}
 
 }
