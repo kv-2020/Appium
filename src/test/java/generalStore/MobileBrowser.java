@@ -24,6 +24,7 @@ public class MobileBrowser {
 		System.out.println("hello appium!!");
 		System.out.println("hello appium!!");
 		System.out.println("hello appium!!");
+		System.out.println("hello appium!!");
 	}
 
 }
